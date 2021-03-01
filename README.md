@@ -12,7 +12,7 @@
 
 ## Setting up a Development Environment
 
-### Install Python and the libraries used for this analysis
+#### Install Python and the libraries used for this analysis
 ```console
 $ brew update
 $ brew install python3
@@ -24,6 +24,6 @@ $ pip3 install sklearn
 
 ## Run this analysis
 
-### Clone this repository and run baseball_python.ipynb using the following article as a guide.
+#### Clone this repository and run baseball_python.ipynb using the following article as a guide.
 
 https://qiita.com/SolKul/items/f078877acd23bb1ea5b5
