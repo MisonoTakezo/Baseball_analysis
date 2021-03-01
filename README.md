@@ -1,4 +1,4 @@
-# Pro-Baseball MVP Verification Project (Python, Jupyter notebook)
+# Pro-Baseball 2019 MVP Verification Project (Python, Jupyter notebook)
 
 ## Dependencies
 
