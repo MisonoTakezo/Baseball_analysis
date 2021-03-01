@@ -1,0 +1,26 @@
+# Baseball_analysis
+
+# Pro-Baseball MVP Verification Project (Python, Jupyter notebook)
+
+## Dependencies
+
+| Dependency | Version |
+| :--------: | :-----: |
+|   Python   |  3.7.6  |
+|   Jupyter Notebook    |   6.0.3  |
+|   Numpy    | 1.18.1  |
+|   Pandas   | 1.0.1   |
+|   Sklearn  | 0.0     |
+
+## Setting up a Development Environment
+
+### Install Python and the libraries used for this analysis
+```console
+$ brew update
+$ brew install python3
+$ pip3 install --upgrade pip
+$ pip3 install numpy
+$ pip3 install pandas
+$ pip3 install sklearn
+```
+
