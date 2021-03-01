@@ -1,5 +1,3 @@
-# Baseball_analysis
-
 # Pro-Baseball MVP Verification Project (Python, Jupyter notebook)
 
 ## Dependencies
@@ -24,3 +22,8 @@ $ pip3 install pandas
 $ pip3 install sklearn
 ```
 
+## Run this analysis
+
+### Clone this repository and run baseball_python.ipynb using the following article as a guide.
+
+https://qiita.com/SolKul/items/f078877acd23bb1ea5b5
