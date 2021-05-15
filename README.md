@@ -10,7 +10,7 @@
 |   Pandas   | 1.0.1   |
 |   Sklearn  | 0.0     |
 
-## Setting up a Development Environment
+## Set up Environment
 
 #### Install Python and the libraries used for this analysis
 ```console
